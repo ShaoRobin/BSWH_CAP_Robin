@@ -1,0 +1,4 @@
+#Fri Jan 12 03:56:56 EST 2024
+base.0=/Users/cheonye/Desktop/BSWH_CPA_Robin/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
